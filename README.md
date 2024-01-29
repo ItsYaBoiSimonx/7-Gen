@@ -7,7 +7,7 @@
 
 To run this program as intended, you'll need the newest version of python AND PIP downloaded off the official [python.org](https://www.python.org/downloads) website (both python and pip [added to path](https://www.youtube.com/watch?v=3a3UOSBffUI)) to run this correctly.
 
-This tool is fully made in Python, it uses a hardcoded HTTPX client to create 7 accounts at the same time.
+This tool is fully made in Python, it uses a hardcoded HTTPX client to create 7 accounts at the same time and spam messages to a set channel.
 
 <h1 align="center">- USAGE -</h1>
 
