@@ -21,6 +21,7 @@ $ git clone https://github.com/ItsYaBoiSimonx/7-gen
 
 
 <h1 align="center">- TODO -</h1>
+
 * Add proxy support, desperately.
 * Add an account manager (since, after you're done with the accounts, they're gonna be useless)
 * "Humanizer" option (since, as of right now, the names are just random characters)
