@@ -9,7 +9,7 @@ To run this program as intended, you'll need the newest version of python AND PI
 
 This tool is fully made in Python, it uses a hardcoded HTTPX client to create 7 accounts at the same time and spam messages to a set channel.
 
-This tool works very well with [AutoTor](https://github.com/FDX100/Auto_Tor_IP_changer), which eliminates the need for proxies.
+<a align="center">This tool works very well with [AutoTor](https://github.com/FDX100/Auto_Tor_IP_changer), which eliminates the need for proxies.</a>
 
 <h1 align="center">- USAGE -</h1>
 
