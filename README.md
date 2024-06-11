@@ -5,6 +5,14 @@
     <img alt="funny badge" src="https://forthebadge.com/images/badges/open-source.svg">
 </p>
 
+> [!WARNING]  
+> This POC was patched by guilded themselves, by removing email & password based registration altogether and relying purely on Roblox account validation.
+
+
+<p align="center">
+    <img align="center" src="https://i.ibb.co/r7xkCLR/shit-registration-rofl.png"></img>  
+</p>
+
 To run this program as intended, you'll need the newest version of python AND PIP downloaded off the official [python.org](https://www.python.org/downloads) website (both python and pip [added to path](https://www.youtube.com/watch?v=3a3UOSBffUI)) to run this correctly.
 
 This tool is fully made in Python, it uses a hardcoded HTTPX client to create 7 accounts at the same time and spam messages to a set channel.
