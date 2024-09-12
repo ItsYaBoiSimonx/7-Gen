@@ -6,7 +6,7 @@
 </p>
 
 > [!WARNING]  
-> This POC was patched by guilded themselves, by removing email & password based registration altogether and relying purely on Roblox account validation. IMO, this is a pretty restrictive and exaggerated way to patch something that wouldve taken a simple captcha, but eh, who am i to judge ¯\_(ツ)_/¯
+> This POC was patched by guilded themselves, by removing email & password based registration altogether and relying purely on Roblox account validation. IMO, this is a pretty restrictive and exaggerated way to patch something that wouldve taken a simple captcha, but eh, who am i to judge ¯\\\_(ツ)_/¯
 
 <p align="center">
     <img align="center" src="https://i.ibb.co/r7xkCLR/shit-registration-rofl.png"></img>  
